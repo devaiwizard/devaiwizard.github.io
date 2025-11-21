@@ -61,7 +61,7 @@ export default function Home() {
         </div>
         {/* <ContainerStagger className="contStag"> */}
         <MotionConfig transition={TRANSITIONS.filter}>
-          <section id='home' className='max-w-2xl md:max-w-4xl lg:max-w-6xl p-10 md:pt-5 mx-auto relative'><Navbar /></section>
+          <section id='home' className='max-w-2xl md:max-w-4xl lg:max-w-6xl p-10 md:pt-5 mx-auto relative z-50'><Navbar /></section>
           {/* Intro Section */}
           <section id="heroSection" className='max-w-2xl md:max-w-4xl lg:max-w-6xl pl-10 pr-10 mx-auto relative md:-top-16'>
             {/* <HeroMorphingParticles shapeIndex={heroShape} /> */}
@@ -215,7 +215,7 @@ export default function Home() {
                             imageHeight={200}
                           >
                             <Link
-                              href="https://devangkantharia.github.io/others/explorations/"
+                              href="https://devaiwizard.github.io/others/explorations/"
                               target="_blank"
                               rel="noopener noreferrer"
                               data-no-blobity
@@ -239,7 +239,7 @@ export default function Home() {
                             imageHeight={200}
                           >
                             <Link
-                              href="https://devangkantharia.github.io/others/arvrmr/"
+                              href="https://devaiwizard.github.io/others/arvrmr/"
                               target="_blank"
                               rel="noopener noreferrer"
                               data-no-blobity
@@ -263,7 +263,7 @@ export default function Home() {
                             imageHeight={200}
                           >
                             <Link
-                              href="https://devangkantharia.github.io/others/experience-centers/"
+                              href="https://devaiwizard.github.io/others/experience-centers/"
                               target="_blank"
                               rel="noopener noreferrer"
                               data-no-blobity
@@ -287,7 +287,7 @@ export default function Home() {
                             imageHeight={200}
                           >
                             <Link
-                              href="https://devangkantharia.github.io/others/freelance/"
+                              href="https://devaiwizard.github.io/others/freelance/"
                               target="_blank"
                               rel="noopener noreferrer"
                               data-no-blobity
@@ -311,7 +311,7 @@ export default function Home() {
                             imageHeight={200}
                           >
                             <Link
-                              href="https://devangkantharia.github.io/others/phygital/"
+                              href="https://devaiwizard.github.io/others/phygital/"
                               target="_blank"
                               rel="noopener noreferrer"
                               data-no-blobity
@@ -335,7 +335,7 @@ export default function Home() {
                             imageHeight={200}
                           >
                             <Link
-                              href="https://devangkantharia.github.io/others/touch/"
+                              href="https://devaiwizard.github.io/others/touch/"
                               target="_blank"
                               rel="noopener noreferrer"
                               data-no-blobity
